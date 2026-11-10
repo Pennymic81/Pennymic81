@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Paul</h1>
+<h1 align="center">👋 Hey there, I'm Michael</h1>
 
 <h3 align="center">⚙️ Backend Developer | 🤖 AI Product Engineer | 🧪 QA Engineer</h3>
 
@@ -59,8 +59,7 @@ Currently contributing to **[Zedu](https://zedu.chat)** and **[Ziki](https://zik
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-YOUR--NAME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-@YOUR--HANDLE-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/michael-adekunle-01776a3b1/"><img src="https://img.shields.io/badge/LinkedIn-Michael_Adekunle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Pennymic81"><img src="https://img.shields.io/badge/GitHub-Pennymic81-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
